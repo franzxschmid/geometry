@@ -1,2 +1,2 @@
 # geometry
-To practice the Usage of Interfaces
+Simple Exercise to practice the Usage of Interfaces
